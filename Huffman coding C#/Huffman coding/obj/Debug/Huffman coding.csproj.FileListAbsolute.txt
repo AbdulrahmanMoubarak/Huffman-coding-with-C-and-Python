@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\Huffman coding\Huffman coding\bin\Debug\Huffman coding.exe.config
-C:\Users\User\source\repos\Huffman coding\Huffman coding\bin\Debug\Huffman coding.exe
-C:\Users\User\source\repos\Huffman coding\Huffman coding\bin\Debug\Huffman coding.pdb
-C:\Users\User\source\repos\Huffman coding\Huffman coding\obj\Debug\Huffman coding.csprojAssemblyReference.cache
-C:\Users\User\source\repos\Huffman coding\Huffman coding\obj\Debug\Huffman coding.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Huffman coding\Huffman coding\obj\Debug\Huffman coding.exe
-C:\Users\User\source\repos\Huffman coding\Huffman coding\obj\Debug\Huffman coding.pdb
